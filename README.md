@@ -20,8 +20,14 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH.  At fH the gain 
  <img width="602" height="346" alt="image" src="https://github.com/user-attachments/assets/db9d11c7-e823-46f2-bb3e-635a71cbd0b2" />
 
 ## TABULATION: LOW PASS FILTER
+
+![WhatsApp Image 2025-11-15 at 11 57 51_cebcd35e](https://github.com/user-attachments/assets/f41dfd18-e45c-4a76-8430-00b6c3ea1f56)
+
                                                                                       		
 ## GRAPH: LOW PASS FILTER
+
+![WhatsApp Image 2025-11-15 at 11 57 50_2ab85b28](https://github.com/user-attachments/assets/e0d027d9-60e4-4663-ae71-5a43541b2950)
+
 
 ## HIGH PASS FILTER
 The frequency at which the magnitude of the gain is 0.707 times the maximum value of gain is called low cut off frequency.  Obviously, all frequencies higher than fL are pass band frequencies with the highest frequency determined by the closed –loop band width all of the op-amp.
@@ -34,8 +40,12 @@ HIGH PASS FILTER
 <img width="1007" height="488" alt="image" src="https://github.com/user-attachments/assets/ebcb29eb-14e0-4a94-99c6-8962f80db50c" />
 
 ## TABULATION: HIGH PASS FILTER
+![WhatsApp Image 2025-11-15 at 11 57 49_afe6a070](https://github.com/user-attachments/assets/33b9ba6b-9660-4540-83e6-620d1869aa8a)
+
 
 ## GRAPH: HIGH PASS FILTER
+![WhatsApp Image 2025-11-15 at 11 57 49_fe1a1c7d](https://github.com/user-attachments/assets/7b8303e6-2c95-4b0c-baf5-40e658b385b4)
+
 
 ## DESIGN:LPF & HPF
 Given: fH = 1 KHz = 1/ (2πRC)
@@ -66,8 +76,14 @@ A band pass filter has a pass band between two cutoff frequencies fH and fL such
 <img width="1058" height="537" alt="image" src="https://github.com/user-attachments/assets/46f7ef48-e8af-437c-958f-680c32873aaa" />
 
  ## TABULATION: BANDPASS FILTER
+ 
+ <img width="650" height="440" alt="image" src="https://github.com/user-attachments/assets/19d1b709-9cfe-4e25-b048-bc50255bd3d0" />
+
 
 ## GRAPH: BANDPASS FILTER
+
+![WhatsApp Image 2025-11-15 at 12 05 56_733689e2](https://github.com/user-attachments/assets/e1a16f3f-4dbc-4d97-88c7-a092947613ef)
+
                                                                                                   
 ## DESIGN: BAND PASS FILTER
 Design a BPF to pass a band of 400Hz to 2KHz with a pass band gain of 4. 
