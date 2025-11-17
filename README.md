@@ -117,4 +117,7 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 6. Calculate passband gain and plot the graph of frequency versus voltage gain & check the graph to get approximately the same characteristic as shown in the model graph.
 
 ## RESULT:
+Thus, the ACTIVE LOW PASS HIGH PASS AND BAND PASS FILTERS USING OP AMP is designed and their performance was successfully tested using op-amp IC 741.
+
+
 
